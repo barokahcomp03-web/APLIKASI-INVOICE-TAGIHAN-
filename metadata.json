@@ -1,0 +1,5 @@
+{
+  "name": "Invoice & Stock Management System",
+  "description": "A comprehensive system for technicians to submit field transactions and admins to validate invoices, manage stock, and handle company documentation.",
+  "requestFramePermissions": []
+}
